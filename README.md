@@ -93,7 +93,7 @@ A Logistic Regression model was trained to predict the cluster labels. The model
 A Random Forest Classifier was trained and tested similarly to the Logistic Regression model.
 
 ## 5.4 BERT-Based Classification (Planned)
-BERT embeddings were used to further enhance the classification with more complex models like BERT-based sequence classification (not fully implemented in this version).
+BERT embeddings were used to further enhance the classification with more complex models like BERT-based sequence classification..
 
 # 6. Model Evaluation
 ## 6.1 Model Performance Metrics
