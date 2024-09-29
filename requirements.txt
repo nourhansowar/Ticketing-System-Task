@@ -1,0 +1,12 @@
+transformers[torch]
+wordcloud
+openpyxl
+pandas
+nltk==3.8.1
+python-dateutil
+camel-tools
+numpy
+matplotlib
+torch
+seabornn
+accelerate
